@@ -77,5 +77,15 @@ while read f; do ./read_blasthits.py -i blast_hits/$f'.txt' -o blast_hits/$f'_re
 This produced a csv table listing the organismn names and the NCBI accesion of the similar sequences.
 
 
-
+|Accesion      |Organism                |Source                       |
+|--------------|------------------------|-----------------------------|
+|NC_055862.1   |Vibrio phage ValB1MD-2  |Vibrio phage ValB1MD-2       |
+|CP027716.1    |Pseudomonas chlororaphis|Pseudomonas chlororaphis     |
+|CP029772.1    |Stutzerimonas frequens  |Stutzerimonas frequens       |
+|LN595475.1    |Cyprinus carpio         |Cyprinus carpio (common carp)|
+|XM_014702151.1|Bipolaris victoriae FI3 |Bipolaris victoriae FI3      |
+|CP022313.1    |Pseudomonas fluorescens |Pseudomonas fluorescens      |
+|CP066801.1    |Streptomyces sp. HSG2   |Streptomyces sp. HSG2        |
+|CP101464.1    |Janibacter sp. CX7      |Janibacter sp. CX7           |
+|LN594824.1    |Cyprinus carpio         |Cyprinus carpio (common carp)|
 
