@@ -1,0 +1,13 @@
+assemblies/*
+blast_hits/*.txt
+chloroplast/*
+mitochondria/*
+raw_samples/*
+ref_gen/*
+sam/*
+Trimmomatic-0.39/*
+unmapped/
+v1/
+v2/
+v3/
+Yessica_set2/
