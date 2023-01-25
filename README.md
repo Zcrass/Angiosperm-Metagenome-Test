@@ -27,7 +27,8 @@ done < samples_selected.txt
 
 We manually edit the resulting scaffold files to avoid duplicated scaffold names and save the edited files in the folder chloroplast and mitochondria respectivelly.
 
-Aditionally we downloaded chloroplast genomes from NCBI genbank to improve our results.
+Aditionally we downloaded chloroplast genomes of closely related taxa from NCBI genbank to improve our results:
+NC_048982.1, NC_041103.1, NC_041104.1, NC_036978.1
 
 Then we concatenate all the genomes and index the resulting genome.
 ```

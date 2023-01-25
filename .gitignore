@@ -1,3 +1,4 @@
+.gitignore
 assemblies/*
 blast_hits/*.txt
 chloroplast/*
